@@ -6,3 +6,7 @@
 - [**Week 3**](https://docs.google.com/document/d/1GmO3QmoBH-y9ASGFeG9ggQbavKH5MiVfWQhBJ21k_aM/edit?usp=sharing)
 - [**Week 4**](https://docs.google.com/document/d/1OvVzJSz63e20IpPJE_kU4SOmQwHpQAsxtbbKwpLrudQ/edit?usp=sharing)
 
+## Project Initiation: Starting a Successful Project
+
+
+
