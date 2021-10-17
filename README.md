@@ -20,3 +20,4 @@
 - [**Week 5**](https://docs.google.com/document/d/10jiqjIar0YmO2dRXt_zAV-EQyFHTRc8qhyjluX9_RBc/edit?usp=sharing)
 
 ## Project Execution: Running the Project
+- [**Week 1**](https://docs.google.com/document/d/1yn3MTwwWkp_h8SHsMnmOmFx32ZUEDLk_-7OiWp-vVAo/edit?usp=sharing)
