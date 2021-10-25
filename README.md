@@ -29,6 +29,7 @@
 
 ## Agile Project Management
 - [**Week 1**](https://docs.google.com/document/d/1A2C2yTKJ5KpbjmeglWxon2V7uVWYEEs3nMiKW233SiE/edit?usp=sharing)
+- [**Week 2**](https://docs.google.com/document/d/1KEc--0qhpGIMAe5sM1COXPYbldPUGUrGAw8Q5Olm6u0/edit?usp=sharing)
 
 
 
