@@ -36,4 +36,4 @@
 
 ## Capstone: Applying Project Management in the Real World
 ### [Capstone: Applying Project Management in the Real World Documents](https://docs.google.com/spreadsheets/d/1UFB8umKxKHHEQo096XXftGsi9k-b2htH2BKjj9MJz7M/edit?usp=sharing)
-- [** Week 1 **](https://docs.google.com/document/d/1WveQ4d9R2NYmxb0UkbayMhIx-kvFrnNCbr1f1hxTXMY/edit?usp=sharing)
+- [**Week 1**](https://docs.google.com/document/d/1WveQ4d9R2NYmxb0UkbayMhIx-kvFrnNCbr1f1hxTXMY/edit?usp=sharing)
