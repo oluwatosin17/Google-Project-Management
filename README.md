@@ -38,3 +38,5 @@
 ### [Capstone: Applying Project Management in the Real World Documents](https://docs.google.com/spreadsheets/d/1UFB8umKxKHHEQo096XXftGsi9k-b2htH2BKjj9MJz7M/edit?usp=sharing)
 - [**Week 1**](https://docs.google.com/document/d/1WveQ4d9R2NYmxb0UkbayMhIx-kvFrnNCbr1f1hxTXMY/edit?usp=sharing)
 - [**Week 2**](https://docs.google.com/document/d/1etJhXpnHCGvegISlXzW8yYec7zKoGyYggIH_iWcoyY4/edit?usp=sharing)
+- [**Week 3**](https://docs.google.com/document/d/1RCT1KfLKxZQ2qjS26lFOnZGStQ3hDpDoLqAYCxitEXs/edit?usp=sharing)
+- [**Week 4**](https://docs.google.com/document/d/1MSX5erV0X8rXDBWYijtwRBnEDx8_h724oYBsZxbYprM/edit?usp=sharing)
