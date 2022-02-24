@@ -1,5 +1,6 @@
 # Google-Project-Management
 ### [Activity Template](https://docs.google.com/spreadsheets/d/1n88pZhWI4ODHcdTMCEsS7cQ7Fb52tckxTGAW2PN_iS4/edit#gid=300282276)
+[Build a Product Management Plan Framework in Trello](https://trello.com/b/8ZWqPqmf/product-x-dashboard)
 
 ## Foundations of Project Management
 - [**Week 1**](https://docs.google.com/document/d/1vs0jyZNnafg5Wj3cYU9sHv2BsIh4uMnD6qIxig4dss8/edit?usp=sharing)
